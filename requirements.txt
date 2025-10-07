@@ -1,0 +1,6 @@
+pytest
+playwright
+pytest-playwright
+faker
+python-dotenv
+allure-pytest
