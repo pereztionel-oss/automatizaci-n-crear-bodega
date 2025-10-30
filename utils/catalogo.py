@@ -22,7 +22,7 @@ tipos_bodega = [
 ]
 
 Tipo_Estandar = [
-    "X100",
+    "X300",
     "X200"
 ]
 tipos_calle = ["Calle", "Carrera", "Avenida", "Transversal","Circunvalar"]
