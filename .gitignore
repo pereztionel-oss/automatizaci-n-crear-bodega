@@ -10,3 +10,8 @@ __pycache__/
 
 # Archivos temporales de VSCode
 .vscode/
+# Agregar al archivo .gitignore
+*.png
+*.jpg
+*.jpeg
+*.log
